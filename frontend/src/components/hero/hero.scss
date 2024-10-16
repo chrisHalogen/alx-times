@@ -1,0 +1,65 @@
+@import "../../base.scss";
+
+.hero-area {
+  height: 500px;
+  width: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+
+  @include below-600 {
+    height: 350px;
+  }
+
+  .overlay {
+    background-color: rgba($color: #000000, $alpha: 0.6);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+  }
+
+  .inner {
+    color: $white;
+    max-width: 700px;
+    z-index: 20;
+
+    @include below-900 {
+      padding: 0 2rem;
+    }
+
+    @include below-480 {
+      padding: 0 1rem;
+    }
+
+    h1 {
+      @include poppins-bold;
+      font-size: 3rem;
+      text-align: center;
+
+      @include below-900 {
+        font-size: 2.5rem;
+      }
+
+      @include below-480 {
+        font-size: 2rem;
+      }
+    }
+
+    p {
+      @include poppins-regular;
+      font-size: 1rem;
+      padding-top: 0.5rem;
+      text-align: center;
+    }
+  }
+}

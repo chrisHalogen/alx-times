@@ -1,0 +1,60 @@
+@import "../../base.scss";
+
+.navbar {
+  background-color: $secondary;
+  padding: 2rem 1rem;
+
+  @include below-screen {
+    padding: 2rem;
+  }
+
+  @include below-480 {
+    padding: 1rem;
+  }
+
+  ul {
+    list-style-type: none;
+
+    @include below-screen {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      align-content: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    li {
+      display: block;
+      width: 100%;
+      margin: 1rem 0;
+
+      @include below-screen {
+        width: fit-content;
+        margin: 0;
+      }
+
+      a {
+        background-color: $white;
+        color: $secondary;
+        padding: 0.5rem;
+        display: block;
+        text-align: center;
+        text-decoration: none;
+        font-size: 12px;
+        @include poppins-bold;
+        transition: 0.25s ease;
+
+        &:hover {
+          background-color: $aux-accent;
+          color: $white;
+        }
+
+        &.active {
+          background-color: $aux-accent;
+          color: $white;
+        }
+      }
+    }
+  }
+}

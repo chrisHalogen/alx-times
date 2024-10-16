@@ -1,0 +1,105 @@
+@import "../../base.scss";
+
+.footer-credit {
+  width: 100%;
+  padding: 0.75rem 0;
+  background-color: $aux-accent;
+
+  p {
+    @include poppins-medium;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+
+    a {
+      color: $accent;
+      text-decoration: none;
+      @include poppins-bold;
+      transition: 0.25s ease;
+
+      &:hover {
+        color: $off-white;
+      }
+    }
+  }
+}
+
+.footer {
+  width: 100%;
+  padding: 4rem 0;
+  background-color: $text;
+
+  @include below-1200() {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .inner-container {
+    @include inner-box;
+
+    display: grid;
+    grid-template-columns: 2fr 2fr 1fr 1fr;
+    gap: 2rem;
+
+    @include below-1200 {
+      grid-template-columns: 2fr 1fr;
+    }
+
+    @include below-screen {
+      grid-template-columns: 1fr;
+    }
+
+    h2 {
+      color: $white;
+      @include poppins-bold;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    p {
+      color: $off-white;
+      @include poppins-regular;
+      font-size: 14px;
+
+      a {
+        @include line-button;
+        color: $accent;
+      }
+    }
+
+    .col1 {
+      a {
+        width: 100%;
+        img {
+          width: 100%;
+          max-width: 20rem;
+        }
+      }
+    }
+
+    .col3 {
+      ul {
+        list-style-type: none;
+
+        li {
+          a {
+            @include line-button;
+            color: $white;
+            @include poppins-regular;
+            font-weight: 400;
+          }
+        }
+      }
+    }
+
+    .col4 {
+      p {
+        margin-bottom: 1rem;
+      }
+      a {
+        @include main-button;
+        background-color: $primary;
+      }
+    }
+  }
+}

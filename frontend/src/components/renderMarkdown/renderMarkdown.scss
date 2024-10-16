@@ -1,0 +1,40 @@
+@import "../../base.scss";
+
+.article-container {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.6;
+  //   padding: 20px;
+  // background-color: #f9f9f9;
+}
+
+.article-container h1 {
+  font-size: 2rem;
+  color: $secondary;
+}
+
+.article-container h2 {
+  font-size: 1.5rem;
+  color: $secondary;
+}
+
+.article-container p {
+  font-size: 1rem;
+  color: $text;
+}
+
+.article-container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+}
+
+.article-container a {
+  color: $aux-accent;
+  text-decoration: none;
+  transition: 0.25s ease;
+}
+
+.article-container a:hover {
+  color: $accent;
+}

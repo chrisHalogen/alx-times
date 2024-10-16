@@ -1,0 +1,36 @@
+@import "../../base.scss";
+
+.pagination-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // align-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding: 0 2rem;
+
+    button {
+      @include main-button;
+      border: none;
+      outline: none;
+
+      &.active {
+        background-color: $aux-accent;
+      }
+
+      svg {
+        font-size: 1.25rem;
+      }
+
+      @include below-screen {
+        padding: 0.5rem 0.8rem;
+      }
+    }
+  }
+}

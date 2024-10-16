@@ -1,0 +1,331 @@
+@import "./base.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  @include poppins-regular;
+  font-size: 1rem;
+}
+
+.user-area-layout {
+  width: 100%;
+  padding: 4rem 2rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @include below-900 {
+    padding-top: 1rem;
+  }
+
+  @include below-480 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .innerContainer {
+    width: 100%;
+    max-width: 900px;
+    height: fit-content;
+
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    gap: 2rem;
+    align-items: flex-start;
+
+    @include below-screen {
+      grid-template-columns: 1fr;
+    }
+
+    // & > div {
+    //   padding: 2rem;
+    //   min-height: 50px;
+
+    //   @include below-900 {
+    //     padding: 1rem;
+    //   }
+    // }
+
+    // table {
+    //   padding: 0;
+    // }
+
+    .content-area {
+      background-color: $off-white;
+      padding: 1rem;
+
+      & > div {
+        padding: 2rem;
+        min-height: 50px;
+
+        @include below-900 {
+          padding: 1rem;
+        }
+      }
+
+      h2.dashboard-title {
+        @include poppins-bold;
+        color: $secondary;
+      }
+
+      .divider {
+        border: 0;
+        outline: 0;
+        border-bottom: 2px solid $aux-accent;
+        margin: 1rem 0;
+        display: block;
+      }
+
+      p.body-content {
+        margin-bottom: 1rem;
+      }
+
+      button,
+      a.dashboard-cta {
+        @include main-button;
+        outline: none;
+        border: none;
+      }
+
+      .article-image {
+        width: 100%;
+        max-width: 400px;
+      }
+
+      :is(input[type="email"], input[type="password"], input[type="text"]) {
+        display: block;
+        width: 100%;
+        max-width: 20rem;
+        border: 0;
+        outline: 0;
+        background-color: transparent;
+        padding: 0.5rem 0rem;
+        border-bottom: 2px solid $secondary;
+        margin: 1rem 0;
+      }
+
+      .top-cta {
+        margin: 0;
+        padding: 0;
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        @include below-600 {
+          flex-direction: column;
+          align-items: flex-start;
+
+          h2 {
+            margin-bottom: 1rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+.page-content-wrapper {
+  padding: 4rem 0;
+
+  .btn-back {
+    @include main-button;
+    outline: none;
+    border: none;
+  }
+}
+
+.page-content-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: fit-content;
+
+  padding: 4rem 2rem;
+
+  .article-details {
+    max-width: 900px;
+
+    .article-divider {
+      outline: none;
+      border: none;
+      border-bottom: 2px solid #e0e0e0;
+      margin: 2rem 0;
+    }
+
+    h2 {
+      @include poppins-bold;
+      font-size: 2rem;
+      color: $secondary;
+      margin-bottom: 0.5rem;
+
+      @include below-600 {
+        font-size: 1.5rem;
+      }
+    }
+  }
+
+  .page-content {
+    max-width: 900px;
+    text-align: center;
+
+    a {
+      @include line-button;
+      font-weight: bold;
+    }
+
+    .contact-icons-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+
+      @include below-screen {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      @include below-600 {
+        grid-template-columns: repeat(1, 1fr);
+      }
+
+      .single-icon {
+        background-color: $white;
+        box-shadow: 0px 0px 8px 0px rgba($color: #000000, $alpha: 0.2);
+        border-radius: 0.5rem;
+        padding: 1.5rem;
+
+        @include below-screen {
+          padding: 0.75rem;
+        }
+
+        @include below-600 {
+          padding: 1.5rem;
+        }
+
+        .icon-container {
+          width: 3.5rem;
+          height: 3.5rem;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+
+          background-color: $aux-accent;
+          border-radius: 100%;
+
+          margin: 0 auto;
+
+          svg {
+            color: $white;
+            font: 2rem;
+          }
+        }
+
+        h3 {
+          @include poppins-bold;
+          font-size: 1.5rem;
+          margin-top: 0.5rem;
+        }
+        P {
+          margin-bottom: 0.5rem;
+        }
+      }
+    }
+
+    .content-box {
+      width: 100%;
+      .top-bar-actions {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        h2 {
+          @include poppins-bold;
+          font-size: 2rem;
+          color: $secondary;
+
+          @include below-600 {
+            font-size: 1.5rem;
+          }
+        }
+
+        a {
+          @include line-button;
+          font-weight: bold;
+          font-size: 1.25rem;
+
+          @include below-600 {
+            font-size: 1rem;
+          }
+        }
+      }
+
+      .articles-grid {
+        margin-top: 1.5rem;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+
+        gap: 2rem;
+        max-width: 900px;
+        // justify-content: center;
+
+        @include below-900 {
+          grid-template-columns: repeat(2, 1fr);
+        }
+
+        @include below-600 {
+          grid-template-columns: repeat(1, 1fr);
+        }
+      }
+    }
+
+    .categories-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+      max-width: 900px;
+      justify-content: center;
+      margin-top: 1.5rem;
+
+      @include below-900 {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      @include below-600 {
+        grid-template-columns: repeat(1, 1fr);
+      }
+
+      .single-category {
+        background-color: $white;
+        box-shadow: 0px 0px 8px 0px rgba($color: #000000, $alpha: 0.2);
+        border-radius: 0.5rem;
+
+        text-decoration: none;
+
+        img {
+          width: 100%;
+          height: 200px;
+          object-fit: cover;
+          object-position: center;
+          border-radius: 0.5rem 0.5rem 0 0;
+        }
+        .text-content {
+          padding: 1rem;
+
+          h3 {
+            @include poppins-bold;
+            font-size: 1.25rem;
+            color: $secondary;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+@import "../../base.scss";
+
+.articles-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: fit-content;
+
+  padding: 2rem;
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    max-width: 900px;
+
+    @include below-900 {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include below-600 {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+}

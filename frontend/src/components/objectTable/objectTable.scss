@@ -1,0 +1,105 @@
+@import "../../base.scss";
+
+.styled-table {
+  border-collapse: collapse;
+  margin: 25px auto;
+  font-size: 0.9em;
+  //   font-family: sans-serif;
+  width: 100%;
+  //   max-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  @include poppins-bold;
+  padding: 0;
+  //   max-width: 700px;
+  @include below-900() {
+    display: none;
+  }
+
+  thead tr {
+    background-color: $secondary;
+    color: #ffffff;
+    text-align: left;
+    @include poppins-regular;
+  }
+
+  :is(th, td) {
+    padding: 12px 15px;
+  }
+
+  tbody tr {
+    border-bottom: 1px solid $dark-bg;
+    transition: 0.25s ease;
+    @include poppins-regular;
+    line-height: 125%;
+  }
+  tbody tr:nth-of-type(even) {
+    background-color: $soft-color;
+  }
+
+  tbody tr:last-of-type {
+    border-bottom: 2px solid $primary;
+  }
+
+  tbody tr:hover {
+    // font-weight: bold;
+    color: $primary;
+    cursor: pointer;
+  }
+}
+
+.mobile-tables {
+  display: none;
+  margin: 0;
+
+  @include below-900() {
+    display: block;
+    padding: 0;
+  }
+
+  .mobile-table {
+    margin-bottom: 1rem;
+    padding: 0;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    td {
+      padding: 12px 15px;
+    }
+
+    .row-key {
+      background-color: $secondary;
+      color: #ffffff;
+      text-align: left;
+      @include poppins-regular;
+    }
+  }
+}
+
+.table-action-link {
+  @include poppins-bold;
+  color: $secondary;
+  text-decoration: none;
+  transition: 0.25s ease;
+
+  &:hover {
+    color: $accent;
+  }
+}
+
+// .styled-table th,
+// .styled-table td {
+
+// }
+// .styled-table tbody tr {
+//     border-bottom: 1px solid #dddddd;
+// }
+
+// .styled-table tbody tr:nth-of-type(even) {
+//     background-color: #f3f3f3;
+// }
+
+// .styled-table tbody tr:last-of-type {
+//     border-bottom: 2px solid $theme-color;
+// }

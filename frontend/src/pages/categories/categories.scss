@@ -1,0 +1,54 @@
+@import "../../base.scss";
+
+.category-page-content-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: fit-content;
+
+  padding: 4rem 2rem;
+
+  .categories-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    max-width: 900px;
+    justify-content: center;
+
+    @include below-900 {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include below-600 {
+      grid-template-columns: repeat(1, 1fr);
+    }
+
+    .single-category {
+      background-color: $white;
+      box-shadow: 0px 0px 8px 0px rgba($color: #000000, $alpha: 0.2);
+      border-radius: 0.5rem;
+
+      text-decoration: none;
+
+      img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 0.5rem 0.5rem 0 0;
+      }
+      .text-content {
+        padding: 1rem;
+
+        h3 {
+          @include poppins-bold;
+          font-size: 1.25rem;
+          color: $secondary;
+          text-align: center;
+        }
+      }
+    }
+  }
+}
