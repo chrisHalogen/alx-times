@@ -1,0 +1,98 @@
+[
+{
+  "model": "accounts.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$IsTZbbQIvGYN9qrGsPdf1E$2zkYpscP//FD4tKUn5MKy29R2TcPBxw6plZb2I/FcMA=",
+    "last_login": "2024-10-05T06:00:51.451Z",
+    "is_superuser": true,
+    "email": "websitepreneur11@gmail.com",
+    "first_name": "Chris",
+    "last_name": "Halogen",
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$Ug6R6FVxI0eedHB7CrBAeu$GWugT6aT5xUrkrD7+k1P/jekWaweDBJ84YO9VeYCLHo=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "christackoms@gmail.com",
+    "first_name": "Chris",
+    "last_name": "Ezekes",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$GA8XDHhu07ST1T5RfvmY2l$o5i9Y0MMk5AF4qAK80qDxwsnddncL3Je+J7WEK6lQDU=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "chris10unlimited@gmail.com",
+    "first_name": "Christian",
+    "last_name": "Mainooer",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$TY8w14Y1KAk77O5PwxsUzM$zT9JxpStoqTNVFn2Xtw7GdpaOYyqZKWU3gMY5xtY6vE=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "kaxila7286@skrank.com",
+    "first_name": "Kelly",
+    "last_name": "Roland",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$Ro1Jf1jYmnsCPgJMrQfDfC$YIFbEk3UkIR0qW2NWFYYaFUTDzrXWOlg9F7nwkI28tY=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "ezekiel@chi.com",
+    "first_name": "Ezekiel",
+    "last_name": "Chivita",
+    "is_active": false,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$w75Xxsze9JefK2GgFhDfwN$ojLJWzDAP7RytslUOMev5SM2xfsWdmKrSviK1NbinNU=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "ezekielvita@chi.com",
+    "first_name": "Ezekielv",
+    "last_name": "Chivita",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

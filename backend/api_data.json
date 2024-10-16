@@ -1,0 +1,1797 @@
+[
+{
+  "model": "api.useractivity",
+  "pk": 1,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T16:54:37.182Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 2,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T16:57:46.556Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 3,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:05:02.571Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 4,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:23:51.170Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 5,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:25:49.091Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 6,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:32:25.270Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 7,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:33:47.442Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 8,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:34:12.475Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 9,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:34:46.040Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 10,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:35:04.052Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 11,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:35:14.767Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 12,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:36:27.761Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 13,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:39:03.066Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 14,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:39:18.904Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 15,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:39:38.927Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 16,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:39:56.179Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 17,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:41:01.089Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 18,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:41:21.992Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 19,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:41:57.516Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 20,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:45:34.034Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 21,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:45:43.901Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 22,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:46:04.498Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 23,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:47:13.353Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 24,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:47:27.002Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 25,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:47:30.426Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 26,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:49:39.530Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 27,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:51:22.846Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 28,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:52:30.382Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 29,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T19:58:25.696Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 30,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T19:59:10.185Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 31,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T20:29:38.142Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 32,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-09T20:29:47.117Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 33,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-09T20:29:51.181Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 34,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T06:26:26.393Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 35,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T06:26:49.897Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 36,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T06:27:44.529Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 37,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T06:28:14.597Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 38,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T06:28:48.715Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 39,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T06:29:15.718Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 40,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T06:50:01.296Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 41,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T06:50:50.067Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 42,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T06:56:18.466Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 43,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T06:56:31.912Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 44,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T06:57:38.599Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 45,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T06:57:52.219Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 46,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T06:58:01.859Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 47,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T06:58:09.683Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 48,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T07:00:43.482Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 49,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T07:01:10.754Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 50,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T07:01:37.378Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 51,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T07:02:26.967Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 52,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T07:02:40.482Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 53,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T11:43:47.328Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 54,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-10T11:46:42.107Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 55,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T11:47:18.231Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 56,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T11:47:29.172Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 57,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T11:47:46.776Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 58,
+  "fields": {
+    "user": 7,
+    "activity": "Email Change",
+    "timestamp": "2024-10-10T11:47:59.447Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 59,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T11:48:06.932Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 60,
+  "fields": {
+    "user": 7,
+    "activity": "Password Change",
+    "timestamp": "2024-10-10T12:05:46.131Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 61,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T12:06:04.863Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 62,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-10T12:15:51.587Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 63,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T12:16:43.647Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 64,
+  "fields": {
+    "user": 7,
+    "activity": "Password Change",
+    "timestamp": "2024-10-10T12:17:08.297Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 65,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T12:17:25.954Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 66,
+  "fields": {
+    "user": 7,
+    "activity": "Password Change",
+    "timestamp": "2024-10-10T12:24:51.644Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 67,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-10T12:25:09.589Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 68,
+  "fields": {
+    "user": 4,
+    "activity": "User Login",
+    "timestamp": "2024-10-11T11:55:55.469Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 69,
+  "fields": {
+    "user": 4,
+    "activity": "Profile Modification",
+    "timestamp": "2024-10-11T12:08:20.979Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 70,
+  "fields": {
+    "user": 4,
+    "activity": "User Login",
+    "timestamp": "2024-10-11T12:08:56.011Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 71,
+  "fields": {
+    "user": 4,
+    "activity": "Profile Modification",
+    "timestamp": "2024-10-11T12:09:04.586Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 72,
+  "fields": {
+    "user": 4,
+    "activity": "User Login",
+    "timestamp": "2024-10-11T12:09:13.426Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 73,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-11T13:40:56.231Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 74,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-11T15:41:29.610Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 75,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-11T16:33:47.534Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 76,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-11T19:08:26.686Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 77,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-11T19:08:30.166Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 78,
+  "fields": {
+    "user": 7,
+    "activity": "Delete Article - ID: 2",
+    "timestamp": "2024-10-11T19:08:39.589Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 79,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-11T19:10:43.907Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 80,
+  "fields": {
+    "user": 7,
+    "activity": "Delete Article - ID: 4",
+    "timestamp": "2024-10-11T19:58:50.599Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 81,
+  "fields": {
+    "user": 7,
+    "activity": "Delete Article - ID: 4",
+    "timestamp": "2024-10-11T19:59:19.284Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 82,
+  "fields": {
+    "user": 7,
+    "activity": "User Logout",
+    "timestamp": "2024-10-12T07:35:27.270Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 83,
+  "fields": {
+    "user": 7,
+    "activity": "User Login",
+    "timestamp": "2024-10-12T07:35:30.805Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 84,
+  "fields": {
+    "user": 4,
+    "activity": "User Logout",
+    "timestamp": "2024-10-12T07:35:41.549Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 85,
+  "fields": {
+    "user": 4,
+    "activity": "User Login",
+    "timestamp": "2024-10-12T07:35:46.960Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 86,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:22:50.594Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 87,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:24:19.065Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 88,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:25:43.358Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 89,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:28:39.298Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 90,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:29:56.218Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 91,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:30:59.161Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 92,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:31:57.842Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 93,
+  "fields": {
+    "user": 7,
+    "activity": "Delete Article - ID: 12",
+    "timestamp": "2024-10-12T11:32:27.283Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 94,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:33:01.016Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 95,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:33:56.388Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 96,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:34:53.176Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 97,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:36:26.875Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 98,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:40:16.969Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 99,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:41:55.103Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 100,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:42:26.463Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 101,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-12T11:44:12.881Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 102,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:22:50.850Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 103,
+  "fields": {
+    "user": 4,
+    "activity": "Delete Article - ID: 24",
+    "timestamp": "2024-10-13T06:23:26.142Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 104,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:24:10.847Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 105,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:25:01.698Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 106,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:26:03.976Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 107,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:26:49.806Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 108,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:30:52.022Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 109,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:35:05.491Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 110,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:36:00.865Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 111,
+  "fields": {
+    "user": 4,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:37:09.397Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 112,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:38:17.613Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 113,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:45:27.562Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 114,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:46:20.858Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 115,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:47:25.453Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 116,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:48:05.719Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 117,
+  "fields": {
+    "user": 7,
+    "activity": "New Article Creation",
+    "timestamp": "2024-10-13T06:48:48.377Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.useractivity",
+  "pk": 118,
+  "fields": {
+    "user": 4,
+    "activity": "User Login",
+    "timestamp": "2024-10-14T12:45:46.049Z",
+    "ip_address": "127.0.0.1"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 1,
+  "fields": {
+    "title": "Creating the first Blog Post of the App",
+    "author": 7,
+    "category": "medicine",
+    "content": "This is just the body of the app",
+    "featured": false,
+    "image": "article_images/wks2.jpeg",
+    "is_deleted": true,
+    "created_at": "2024-10-11T15:41:20.808Z",
+    "updated_at": "2024-10-11T19:07:21.427Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 2,
+  "fields": {
+    "title": "Creating the first Blog Post of the App",
+    "author": 7,
+    "category": "medicine",
+    "content": "This is just the body of the app",
+    "featured": false,
+    "image": "article_images/wks2_Z8MBx85.jpeg",
+    "is_deleted": true,
+    "created_at": "2024-10-11T15:41:29.573Z",
+    "updated_at": "2024-10-11T19:08:39.503Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 3,
+  "fields": {
+    "title": "A sporting Article on the run",
+    "author": 7,
+    "category": "sports",
+    "content": "**Title rexr**\r\n---\r\n\r\nMoving onto the victorious city",
+    "featured": false,
+    "image": "",
+    "is_deleted": false,
+    "created_at": "2024-10-11T16:33:47.454Z",
+    "updated_at": "2024-10-11T16:33:47.454Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 4,
+  "fields": {
+    "title": "Business In new York for all",
+    "author": 7,
+    "category": "business",
+    "content": "The fW,YUBWFEEW\r\n\r\n## Another\r\n\r\nWEQUBUYEFUYUTE JWUW",
+    "featured": false,
+    "image": "article_images/great-ux-1024x575.png",
+    "is_deleted": false,
+    "created_at": "2024-10-11T19:10:43.873Z",
+    "updated_at": "2024-10-11T19:59:19.248Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 5,
+  "fields": {
+    "title": "5 Key Strategies to Grow Your Small Business",
+    "author": 4,
+    "category": "business",
+    "content": "Growing a small business can be challenging, but with the right strategies in place, it becomes achievable. Here are five effective ways to expand your small business.\r\n\r\n## 1. Focus on Customer Retention\r\nAcquiring new customers is important, but retaining existing ones is just as crucial. Loyal customers provide recurring revenue and are more likely to refer your business to others.\r\n\r\n## 2. Leverage Social Media Marketing\r\nSocial media platforms offer a low-cost way to promote your business. Engage with your audience on platforms like **Instagram**, **Facebook**, and **LinkedIn** to increase visibility.\r\n\r\n## 3. Expand Your Product or Service Line\r\nOffering complementary products or services can attract new customers while encouraging existing customers to buy more from you.\r\n\r\n## 4. Network and Collaborate\r\nCollaborate with other businesses or professionals in your industry. Attend networking events to build relationships that could lead to new opportunities.\r\n\r\n## 5. Invest in Technology\r\nStreamline your operations by adopting new technologies. Tools like **CRM software**, **email marketing platforms**, and **automation tools** help improve efficiency.\r\n\r\nWith these strategies in mind, you’ll be on your way to sustainable growth. Focus on building meaningful relationships and continually improving your products to stand out from the competition.",
+    "featured": true,
+    "image": "article_images/business-1.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:22:50.501Z",
+    "updated_at": "2024-10-12T11:22:50.501Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 6,
+  "fields": {
+    "title": "How to Write a Business Plan That Investors Will Love",
+    "author": 4,
+    "category": "business",
+    "content": "A well-written business plan can be the key to attracting investors. Here’s how you can create a compelling plan that stands out.\r\n\r\n## 1. Executive Summary  \r\nThe executive summary is the first thing investors see, so it must grab attention. Highlight your company’s mission, vision, and core objectives.\r\n\r\n## 2. Market Analysis  \r\nShow investors that you understand your market. Include statistics on your industry, your target audience, and your competitors.\r\n\r\n## 3. Products and Services  \r\nProvide detailed descriptions of the products or services you offer. Explain how they solve a specific problem or fulfill a need.\r\n\r\n## 4. Marketing and Sales Strategy  \r\nOutline your plan for reaching customers. Will you rely on online ads, content marketing, or partnerships? Describe your approach in detail.\r\n\r\n## 5. Financial Projections  \r\nInvestors want to see realistic revenue projections. Include a **profit and loss statement**, **cash flow statement**, and **balance sheet** to demonstrate your potential for profitability.\r\n\r\nWith a well-structured plan, you’ll have a better chance of attracting investors and growing your business.",
+    "featured": false,
+    "image": "article_images/business-2.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:24:19.017Z",
+    "updated_at": "2024-10-12T11:24:19.017Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 7,
+  "fields": {
+    "title": "The Importance of Branding in Business Success",
+    "author": 4,
+    "category": "business",
+    "content": "In today’s competitive market, strong branding is essential for any business aiming for long-term success. Here are some key reasons why branding matters.\r\n\r\n## 1. Builds Recognition  \r\nA unique and consistent brand identity helps your business stand out. When customers recognize your brand, they’re more likely to choose your products over competitors.\r\n\r\n## 2. Fosters Customer Loyalty  \r\nCustomers develop emotional connections with brands they trust. A strong brand identity encourages loyalty, turning one-time buyers into repeat customers.\r\n\r\n## 3. Establishes Credibility  \r\nA professional brand image gives your business credibility. Customers tend to trust brands that appear polished and reliable.\r\n\r\n## 4. Helps with Marketing  \r\nWhen your branding is clear, marketing becomes more effective. Your brand's voice and identity will guide your campaigns, making them more consistent and impactful.\r\n\r\n## 5. Drives Business Value  \r\nA well-known brand adds value to your business, even beyond the products or services you offer. It can attract partnerships and increase your company’s overall worth.\r\n\r\nIncorporating strong branding strategies into your business will help you thrive in the marketplace. Focus on creating a brand that reflects your values and resonates with your audience.",
+    "featured": true,
+    "image": "article_images/business-3.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:25:43.320Z",
+    "updated_at": "2024-10-12T11:25:43.320Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 8,
+  "fields": {
+    "title": "7 Ways to Improve Customer Experience in Your Business",
+    "author": 7,
+    "category": "business",
+    "content": "Improving customer experience is essential for business growth. Here are seven practical ways to create memorable experiences that keep customers coming back.\r\n\r\n## 1. Understand Customer Needs  \r\nConduct surveys and feedback sessions to identify your customers' preferences and pain points.\r\n\r\n## 2. Offer Personalized Services  \r\nUse customer data to offer personalized recommendations and messages. Customers appreciate businesses that understand their needs.\r\n\r\n## 3. Ensure Quick Response Times  \r\nCustomers value speed. Implement chatbots or assign dedicated support staff to ensure faster responses to inquiries.\r\n\r\n## 4. Train Employees in Customer Service  \r\nWell-trained staff can handle customers professionally and provide excellent service at every touchpoint.\r\n\r\n## 5. Provide Multiple Communication Channels  \r\nOffer customers various ways to contact you – email, social media, live chat, or phone.\r\n\r\n## 6. Monitor and Act on Feedback  \r\nAlways follow up on feedback. Address concerns promptly and show customers that their opinions matter.\r\n\r\n## 7. Reward Customer Loyalty  \r\nImplement loyalty programs to encourage repeat business. Offering discounts and rewards builds long-term relationships.\r\n\r\nThese strategies will help foster strong connections with your customers, enhancing satisfaction and driving growth.",
+    "featured": false,
+    "image": "article_images/business-4.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:28:39.218Z",
+    "updated_at": "2024-10-12T11:28:39.218Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 9,
+  "fields": {
+    "title": "The Role of Digital Transformation in Modern Businesses",
+    "author": 7,
+    "category": "business",
+    "content": "Digital transformation is essential for staying competitive in today’s fast-changing business landscape. Here are the key ways it impacts modern businesses.\r\n\r\n## 1. Enhances Operational Efficiency  \r\nAutomation tools streamline processes, reducing manual labor and minimizing errors.\r\n\r\n## 2. Improves Customer Engagement  \r\nWith tools like **CRM platforms**, businesses can personalize customer interactions and anticipate needs.\r\n\r\n## 3. Enables Data-Driven Decision Making  \r\nAnalytics tools provide real-time insights, helping businesses make smarter decisions backed by data.\r\n\r\n## 4. Facilitates Remote Work  \r\nCloud technologies enable employees to work from anywhere, increasing flexibility and productivity.\r\n\r\n## 5. Creates New Revenue Streams  \r\nBusinesses can explore new models, such as e-commerce or subscription services, leveraging digital platforms.\r\n\r\nAdopting digital transformation is no longer optional – it is a must for businesses aiming to remain relevant and efficient.",
+    "featured": true,
+    "image": "article_images/business-5.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:29:56.183Z",
+    "updated_at": "2024-10-12T11:29:56.183Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 10,
+  "fields": {
+    "title": "10 Business Tools Every Startup Should Use",
+    "author": 7,
+    "category": "business",
+    "content": "Starting a business can be overwhelming, but the right tools can simplify your workflow. Here are ten essential tools for every startup.\r\n\r\n1. **Slack** – For team communication and collaboration.  \r\n2. **Trello** – Manage tasks and projects with a visual interface.  \r\n3. **Google Workspace** – For emails, calendars, and document sharing.  \r\n4. **QuickBooks** – Handle accounting and manage your finances.  \r\n5. **HubSpot CRM** – Track and manage customer relationships.  \r\n6. **Canva** – Design marketing materials without needing graphic design skills.  \r\n7. **Hootsuite** – Schedule and manage your social media posts.  \r\n8. **Zoom** – Host virtual meetings and conferences.  \r\n9. **Asana** – Organize team projects and monitor progress.  \r\n10. **Stripe** – Handle online payments and transactions.\r\n\r\nThese tools will make your daily operations more efficient and help you grow your startup.",
+    "featured": false,
+    "image": "article_images/business-6.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:30:59.124Z",
+    "updated_at": "2024-10-12T11:30:59.124Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 11,
+  "fields": {
+    "title": "6 Common Mistakes to Avoid When Launching a New Product",
+    "author": 7,
+    "category": "business",
+    "content": "Launching a product can be exciting, but it's easy to make mistakes. Avoid these common pitfalls to ensure a smooth launch.\r\n\r\n## 1. Ignoring Market Research  \r\nSkipping market research could lead to developing a product that no one needs.\r\n\r\n## 2. Poor Timing  \r\nLaunching a product at the wrong time can affect its reception. Be mindful of market trends and seasons.\r\n\r\n## 3. Inadequate Marketing  \r\nEven great products need visibility. Plan a robust marketing campaign to create awareness.\r\n\r\n## 4. Lack of Product Testing  \r\nEnsure your product is tested thoroughly to identify any flaws before release.\r\n\r\n## 5. Neglecting Customer Feedback  \r\nCustomer feedback helps you refine your product post-launch. Don’t ignore it.\r\n\r\n## 6. Setting Unrealistic Expectations  \r\nManage expectations by being transparent about your product’s capabilities and limitations.\r\n\r\nAvoid these mistakes, and you'll set yourself up for a successful product launch.",
+    "featured": false,
+    "image": "",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:31:47.304Z",
+    "updated_at": "2024-10-12T11:31:47.304Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 12,
+  "fields": {
+    "title": "6 Common Mistakes to Avoid When Launching a New Product",
+    "author": 7,
+    "category": "business",
+    "content": "Launching a product can be exciting, but it's easy to make mistakes. Avoid these common pitfalls to ensure a smooth launch.\r\n\r\n## 1. Ignoring Market Research  \r\nSkipping market research could lead to developing a product that no one needs.\r\n\r\n## 2. Poor Timing  \r\nLaunching a product at the wrong time can affect its reception. Be mindful of market trends and seasons.\r\n\r\n## 3. Inadequate Marketing  \r\nEven great products need visibility. Plan a robust marketing campaign to create awareness.\r\n\r\n## 4. Lack of Product Testing  \r\nEnsure your product is tested thoroughly to identify any flaws before release.\r\n\r\n## 5. Neglecting Customer Feedback  \r\nCustomer feedback helps you refine your product post-launch. Don’t ignore it.\r\n\r\n## 6. Setting Unrealistic Expectations  \r\nManage expectations by being transparent about your product’s capabilities and limitations.\r\n\r\nAvoid these mistakes, and you'll set yourself up for a successful product launch.",
+    "featured": true,
+    "image": "",
+    "is_deleted": true,
+    "created_at": "2024-10-12T11:31:57.810Z",
+    "updated_at": "2024-10-12T11:32:27.207Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 13,
+  "fields": {
+    "title": "Why Customer Feedback is Crucial for Business Growth",
+    "author": 7,
+    "category": "business",
+    "content": "Customer feedback is one of the most valuable tools for business improvement. Listening to your customers helps you refine your products, enhance customer service, and identify areas of growth.\r\n\r\n## 1. Improving Products and Services  \r\nFeedback allows you to understand what’s working and what needs improvement. By making adjustments based on customer input, you can better meet market demands.\r\n\r\n## 2. Building Customer Loyalty  \r\nWhen customers see that you’re actively listening and implementing their suggestions, they’re more likely to remain loyal. This fosters long-term relationships and repeat business.\r\n\r\n## 3. Boosting Innovation  \r\nCustomer feedback often highlights needs that aren’t being met. By listening closely, you can innovate and create new products or services that fill gaps in the market.\r\n\r\n## 4. Enhancing Marketing Strategy  \r\nBy understanding customer preferences and pain points, you can adjust your marketing efforts to better address their needs, increasing engagement and conversions.\r\n\r\nCustomer feedback is an ongoing process that provides endless opportunities for improvement. Regularly asking for and acting on it will lead to business growth and success.",
+    "featured": true,
+    "image": "",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:33:00.983Z",
+    "updated_at": "2024-10-12T11:33:00.983Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 14,
+  "fields": {
+    "title": "7 Financial Mistakes Small Businesses Should Avoid",
+    "author": 7,
+    "category": "business",
+    "content": "Running a small business requires careful financial management. Here are seven common financial mistakes to avoid for long-term success.\r\n\r\n## 1. Mixing Personal and Business Finances  \r\nKeeping personal and business finances separate is crucial. This helps with accounting, taxes, and understanding your true profitability.\r\n\r\n## 2. Not Creating a Budget  \r\nWithout a budget, it’s hard to track expenses and income. A detailed budget helps control spending and ensures that you’re making informed financial decisions.\r\n\r\n## 3. Ignoring Cash Flow  \r\nCash flow is the lifeblood of any business. Always monitor cash flow to ensure you have enough funds to cover expenses, especially during slow months.\r\n\r\n## 4. Underpricing Products or Services  \r\nMany small businesses underprice their offerings to attract customers. However, this can hurt profitability in the long run. Ensure your pricing covers costs and allows for profit.\r\n\r\n## 5. Failing to Save for Taxes  \r\nTaxes can be a significant expense. Set aside money regularly to cover tax liabilities and avoid surprises during tax season.\r\n\r\n## 6. Not Investing in the Business  \r\nWhile it’s important to save, reinvesting in your business for growth is equally crucial. Don’t be afraid to allocate resources to marketing, technology, or staff.\r\n\r\n## 7. Avoiding Professional Help  \r\nHiring an accountant or financial advisor may seem expensive, but it can save you from costly mistakes down the line.\r\n\r\nBy avoiding these financial pitfalls, you’ll be better equipped to manage your small business effectively.",
+    "featured": false,
+    "image": "article_images/business-8.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:33:56.356Z",
+    "updated_at": "2024-10-12T11:33:56.356Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 15,
+  "fields": {
+    "title": "The Role of Technology in Modern Business Operations",
+    "author": 7,
+    "category": "business",
+    "content": "Technology is revolutionizing business operations across industries. From automation to data analysis, here’s how technology is shaping modern businesses.\r\n\r\n## 1. Automating Routine Tasks  \r\nAutomation tools reduce the need for manual labor in routine tasks such as invoicing, payroll, and customer service. This allows employees to focus on higher-value activities.\r\n\r\n## 2. Enhancing Communication  \r\nCloud-based communication tools like **Slack** and **Zoom** enable real-time collaboration, no matter where team members are located. This increases efficiency and keeps projects on track.\r\n\r\n## 3. Data-Driven Decision Making  \r\nWith the help of data analytics software, businesses can make informed decisions based on real-time data. This improves forecasting, marketing strategies, and overall business planning.\r\n\r\n## 4. Improving Customer Experience  \r\nCustomer Relationship Management (CRM) software allows businesses to track customer interactions, personalize communication, and provide better service. This improves satisfaction and loyalty.\r\n\r\n## 5. Increasing Security  \r\nCybersecurity technology protects businesses from data breaches and cyberattacks. Investing in secure systems ensures that sensitive information is safeguarded.\r\n\r\nEmbracing technology in your business operations can streamline processes, enhance customer experiences, and boost productivity.",
+    "featured": false,
+    "image": "article_images/business-7.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:34:53.141Z",
+    "updated_at": "2024-10-12T11:34:53.141Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 16,
+  "fields": {
+    "title": "How to Create a Successful Business Partnership",
+    "author": 7,
+    "category": "business",
+    "content": "A business partnership can be a great way to combine skills and resources. However, it’s essential to establish clear guidelines to ensure a successful collaboration.\r\n\r\n## 1. Define Roles and Responsibilities  \r\nBefore starting the partnership, outline each partner’s role. Who will be responsible for day-to-day operations? How will decisions be made? Clear roles prevent conflicts down the road.\r\n\r\n## 2. Draft a Partnership Agreement  \r\nA formal partnership agreement should cover financial contributions, profit-sharing, decision-making processes, and conflict resolution methods. It protects both parties and ensures fairness.\r\n\r\n## 3. Communicate Regularly  \r\nEffective communication is the foundation of any successful partnership. Schedule regular meetings to discuss progress, challenges, and plans for the future.\r\n\r\n## 4. Align on Vision and Goals  \r\nPartners should share the same vision for the business. Misaligned goals can lead to disagreements, so ensure that both parties are working toward the same objectives.\r\n\r\n## 5. Plan for the Long-Term  \r\nConsider what happens if one partner wants to exit the business or the partnership dissolves. Having an exit strategy in place helps prevent complications in the future.\r\n\r\nBy following these steps, you can create a strong, successful business partnership that benefits both parties.",
+    "featured": true,
+    "image": "article_images/business-9.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:36:26.841Z",
+    "updated_at": "2024-10-12T11:36:26.841Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 17,
+  "fields": {
+    "title": "How to Create a Winning Business Plan",
+    "author": 4,
+    "category": "business",
+    "content": "A well-thought-out business plan can serve as a roadmap for your business success. Here are the key components of a winning plan.\r\n\r\n## 1. Executive Summary  \r\nSummarize your business idea, target audience, and competitive advantage.\r\n\r\n## 2. Market Analysis  \r\nIdentify your target market, competitors, and current industry trends.\r\n\r\n## 3. Products and Services  \r\nDetail the products or services your business will offer and how they solve customer problems.\r\n\r\n## 4. Marketing Strategy  \r\nOutline how you will attract customers through channels such as social media, email, and paid ads.\r\n\r\n## 5. Financial Projections  \r\nInclude a budget, revenue projections, and funding needs for the next 3-5 years.\r\n\r\nA solid business plan increases your chances of attracting investors and staying on track as your business grows.",
+    "featured": false,
+    "image": "article_images/business-10.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:40:10.845Z",
+    "updated_at": "2024-10-12T11:40:10.845Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 18,
+  "fields": {
+    "title": "How to Create a Winning Business Plan",
+    "author": 4,
+    "category": "business",
+    "content": "A well-thought-out business plan can serve as a roadmap for your business success. Here are the key components of a winning plan.\r\n\r\n## 1. Executive Summary  \r\nSummarize your business idea, target audience, and competitive advantage.\r\n\r\n## 2. Market Analysis  \r\nIdentify your target market, competitors, and current industry trends.\r\n\r\n## 3. Products and Services  \r\nDetail the products or services your business will offer and how they solve customer problems.\r\n\r\n## 4. Marketing Strategy  \r\nOutline how you will attract customers through channels such as social media, email, and paid ads.\r\n\r\n## 5. Financial Projections  \r\nInclude a budget, revenue projections, and funding needs for the next 3-5 years.\r\n\r\nA solid business plan increases your chances of attracting investors and staying on track as your business grows.",
+    "featured": false,
+    "image": "article_images/business-10_0cOchKA.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:40:16.933Z",
+    "updated_at": "2024-10-12T11:40:16.933Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 19,
+  "fields": {
+    "title": "5 Benefits of Business Networking",
+    "author": 7,
+    "category": "business",
+    "content": "Business networking plays a vital role in growing your brand and uncovering new opportunities. Here are five benefits of effective networking.\r\n\r\n## 1. Expands Your Market Reach  \r\nNetworking helps you connect with people who can introduce you to potential clients and partners.\r\n\r\n## 2. Provides Learning Opportunities  \r\nExchanging ideas with other professionals keeps you updated on industry trends and best practices.\r\n\r\n## 3. Builds Long-Term Relationships  \r\nStrong business relationships are built on trust, leading to more collaborations over time.\r\n\r\n## 4. Increases Visibility  \r\nBeing part of industry events or communities raises awareness of your brand and expertise.\r\n\r\n## 5. Access to Referrals  \r\nYour network can recommend your business to others, increasing leads and sales.\r\n\r\nInvest time in building a robust network to enjoy these benefits and grow your business.",
+    "featured": true,
+    "image": "",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:41:50.044Z",
+    "updated_at": "2024-10-12T11:41:50.044Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 20,
+  "fields": {
+    "title": "5 Benefits of Business Networking",
+    "author": 7,
+    "category": "business",
+    "content": "Business networking plays a vital role in growing your brand and uncovering new opportunities. Here are five benefits of effective networking.\r\n\r\n## 1. Expands Your Market Reach  \r\nNetworking helps you connect with people who can introduce you to potential clients and partners.\r\n\r\n## 2. Provides Learning Opportunities  \r\nExchanging ideas with other professionals keeps you updated on industry trends and best practices.\r\n\r\n## 3. Builds Long-Term Relationships  \r\nStrong business relationships are built on trust, leading to more collaborations over time.\r\n\r\n## 4. Increases Visibility  \r\nBeing part of industry events or communities raises awareness of your brand and expertise.\r\n\r\n## 5. Access to Referrals  \r\nYour network can recommend your business to others, increasing leads and sales.\r\n\r\nInvest time in building a robust network to enjoy these benefits and grow your business.",
+    "featured": false,
+    "image": "",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:41:55.069Z",
+    "updated_at": "2024-10-12T11:41:55.069Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 21,
+  "fields": {
+    "title": "8 Signs It's Time to Scale Your Business",
+    "author": 7,
+    "category": "business",
+    "content": "Scaling a business requires careful planning. Here are eight signs that indicate it’s the right time to grow.\r\n\r\n## 1. Consistent Revenue Growth  \r\nIf your revenue is increasing steadily, you’re likely ready to expand.\r\n\r\n## 2. Strong Customer Demand  \r\nHigh demand for your product or service suggests it’s time to grow operations.\r\n\r\n## 3. Established Processes  \r\nHaving efficient processes in place ensures your business can handle growth.\r\n\r\n## 4. Positive Cash Flow  \r\nScaling requires capital, so ensure you have a healthy cash flow.\r\n\r\n## 5. Skilled Workforce  \r\nYour team should be capable of managing an increased workload.\r\n\r\n## 6. Market Opportunities  \r\nEvaluate whether there are new markets or demographics you can tap into.\r\n\r\n## 7. Reliable Suppliers  \r\nYou’ll need dependable partners to meet the demands of a larger customer base.\r\n\r\n## 8. Customer Feedback  \r\nIf customers are asking for more products or services, it may be time to expand.\r\n\r\nRecognizing these signs early helps ensure a smoother scaling process.",
+    "featured": true,
+    "image": "article_images/business-1_GCPAfUU.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:42:26.431Z",
+    "updated_at": "2024-10-12T11:42:26.431Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 22,
+  "fields": {
+    "title": "The Importance of Cash Flow Management",
+    "author": 7,
+    "category": "business",
+    "content": "Managing cash flow effectively is critical to the survival and growth of any business. Here are key reasons why it matters.\r\n\r\n## 1. Keeps Operations Running Smoothly  \r\nCash flow ensures you can pay employees, suppliers, and other operational expenses on time.\r\n\r\n## 2. Helps Avoid Debt  \r\nPositive cash flow allows you to fund growth without taking on unnecessary debt.\r\n\r\n## 3. Enables Better Decision Making  \r\nTracking cash flow helps you plan for seasonal changes and business expansions.\r\n\r\n## 4. Builds Investor Confidence  \r\nInvestors are more likely to back businesses with a healthy cash flow.\r\n\r\n## 5. Mitigates Risks  \r\nProper cash flow management prepares your business for unexpected expenses or downturns.\r\n\r\nMonitor your cash flow closely to maintain financial stability and achieve long-term success.",
+    "featured": false,
+    "image": "article_images/business-2_WAnDXPY.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-12T11:44:12.764Z",
+    "updated_at": "2024-10-12T11:44:12.764Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 23,
+  "fields": {
+    "title": "Advances in Cancer Immunotherapy",
+    "author": 4,
+    "category": "medicine",
+    "content": "Cancer immunotherapy has emerged as one of the most promising treatments in oncology. Unlike conventional methods like chemotherapy and radiation, which target both cancerous and healthy cells, immunotherapy empowers the body’s immune system to recognize and eliminate cancer cells. This targeted approach offers improved outcomes and fewer side effects for patients.\r\n\r\n#### Key Types of Immunotherapy:\r\n- **Checkpoint Inhibitors**: Block proteins that prevent the immune system from attacking cancer cells. Drugs like Pembrolizumab and Nivolumab are commonly used.\r\n- **CAR-T Therapy**: A revolutionary method where a patient's T-cells are modified in a lab to attack cancer more effectively.\r\n- **Cancer Vaccines**: Designed to treat cancer by stimulating an immune response against tumor antigens.\r\n\r\nAlthough immunotherapy has been groundbreaking, challenges remain. Some patients may not respond to treatment, and others experience immune-related side effects. Ongoing research focuses on improving response rates and identifying biomarkers to predict which patients will benefit from therapy.",
+    "featured": false,
+    "image": "",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:22:38.964Z",
+    "updated_at": "2024-10-13T06:22:38.964Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 24,
+  "fields": {
+    "title": "Advances in Cancer Immunotherapy",
+    "author": 4,
+    "category": "medicine",
+    "content": "Cancer immunotherapy has emerged as one of the most promising treatments in oncology. Unlike conventional methods like chemotherapy and radiation, which target both cancerous and healthy cells, immunotherapy empowers the body’s immune system to recognize and eliminate cancer cells. This targeted approach offers improved outcomes and fewer side effects for patients.\r\n\r\n#### Key Types of Immunotherapy:\r\n- **Checkpoint Inhibitors**: Block proteins that prevent the immune system from attacking cancer cells. Drugs like Pembrolizumab and Nivolumab are commonly used.\r\n- **CAR-T Therapy**: A revolutionary method where a patient's T-cells are modified in a lab to attack cancer more effectively.\r\n- **Cancer Vaccines**: Designed to treat cancer by stimulating an immune response against tumor antigens.\r\n\r\nAlthough immunotherapy has been groundbreaking, challenges remain. Some patients may not respond to treatment, and others experience immune-related side effects. Ongoing research focuses on improving response rates and identifying biomarkers to predict which patients will benefit from therapy.",
+    "featured": false,
+    "image": "",
+    "is_deleted": true,
+    "created_at": "2024-10-13T06:22:50.781Z",
+    "updated_at": "2024-10-13T06:23:26.080Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 25,
+  "fields": {
+    "title": "The Role of Telemedicine in Modern Healthcare",
+    "author": 4,
+    "category": "medicine",
+    "content": "Telemedicine has become an essential part of healthcare, especially after the COVID-19 pandemic reshaped how care is delivered. By allowing healthcare providers to consult patients remotely, telemedicine offers several advantages, including increased accessibility, reduced costs, and convenience for both patients and providers.\r\n\r\n#### Benefits of Telemedicine:\r\n- **Accessibility**: Patients in remote areas can receive medical advice without the need for travel.\r\n- **Chronic Illness Management**: Conditions such as diabetes and hypertension can be monitored through virtual visits, reducing hospital trips.\r\n- **Mental Health Services**: Telemedicine has facilitated the growth of online therapy and counseling, addressing mental health issues during lockdowns.\r\n\r\nDespite its benefits, telemedicine also faces challenges. Not all patients have access to reliable internet, and some medical procedures still require in-person visits. Nevertheless, telemedicine is expected to continue evolving, with advancements such as AI-powered diagnostics enhancing remote care further.",
+    "featured": true,
+    "image": "article_images/med-1.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:24:10.813Z",
+    "updated_at": "2024-10-13T06:24:10.813Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 26,
+  "fields": {
+    "title": "Understanding Antibiotic Resistance",
+    "author": 4,
+    "category": "medicine",
+    "content": "Antibiotic resistance is one of the biggest global public health threats. Bacteria have evolved to resist the effects of antibiotics, making infections harder to treat and increasing the risk of severe illness or death. According to the **World Health Organization (WHO)**, antibiotic resistance could lead to a situation where even minor infections become life-threatening.\r\n\r\n#### Causes of Antibiotic Resistance:\r\n1. **Overuse in Humans**: Unnecessary prescriptions, such as antibiotics for viral infections, have accelerated resistance.\r\n2. **Misuse in Agriculture**: Antibiotics are frequently used in livestock to promote growth, which introduces resistant bacteria into the food chain.\r\n3. **Lack of New Antibiotics**: Pharmaceutical companies face challenges in developing new antibiotics due to limited financial incentives.\r\n\r\nEfforts to curb antibiotic resistance involve public education, strict regulations on the use of antibiotics in agriculture, and investment in new drug development. It is critical for healthcare providers and patients to work together to use antibiotics responsibly.",
+    "featured": true,
+    "image": "article_images/med-2.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:25:01.663Z",
+    "updated_at": "2024-10-13T06:25:01.663Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 27,
+  "fields": {
+    "title": "The Impact of Nutrition on Mental Health",
+    "author": 4,
+    "category": "medicine",
+    "content": "Research has increasingly highlighted the link between diet and mental health. While medication and therapy are essential for managing mental health conditions, diet plays a significant role in brain function and emotional well-being. A diet deficient in key nutrients can contribute to depression, anxiety, and other mental health disorders.\r\n\r\n#### Key Nutrients for Mental Well-being:\r\n- **Omega-3 Fatty Acids**: Found in fish like salmon and sardines, omega-3s are essential for brain health and have been linked to reduced symptoms of depression.\r\n- **Vitamin D**: Low levels of Vitamin D are associated with seasonal affective disorder (SAD) and other mood disorders.\r\n- **Antioxidants**: Found in fruits and vegetables, antioxidants combat oxidative stress, which affects brain function and mood.\r\n\r\nIn addition to individual nutrients, studies suggest that following dietary patterns like the **Mediterranean diet**—rich in vegetables, fruits, whole grains, and lean protein—can support mental well-being. Emerging fields like **nutritional psychiatry** advocate for dietary interventions as complementary treatments for mental health disorders.",
+    "featured": false,
+    "image": "article_images/med-3.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:26:03.925Z",
+    "updated_at": "2024-10-13T06:26:03.925Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 28,
+  "fields": {
+    "title": "Breakthroughs in Gene Therapy",
+    "author": 4,
+    "category": "medicine",
+    "content": "Gene therapy is at the forefront of modern medicine, offering hope for treating genetic disorders that were once considered incurable. This technique involves modifying or replacing faulty genes responsible for a disease. The recent success of **CRISPR-Cas9** technology has opened up new possibilities, enabling scientists to edit DNA with unprecedented precision.\r\n\r\n#### Applications of Gene Therapy:\r\n- **Inherited Diseases**: Gene therapy has shown promise in treating conditions like **cystic fibrosis** and **Duchenne muscular dystrophy**.\r\n- **Cancer Treatment**: Experimental gene therapies aim to improve the body's immune response to tumors, complementing traditional treatments.\r\n- **Vision Restoration**: Treatments for rare forms of blindness, such as **Leber congenital amaurosis**, have become a reality through gene therapy.\r\n\r\nDespite the excitement, challenges such as high costs, potential side effects, and ethical concerns remain. As research progresses, gene therapy could reshape medicine by offering personalized treatments and cures for a wide range of diseases.",
+    "featured": false,
+    "image": "article_images/med-4.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:26:49.747Z",
+    "updated_at": "2024-10-13T06:26:49.747Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 29,
+  "fields": {
+    "title": "The Science Behind Sleep and Brain Health",
+    "author": 4,
+    "category": "medicine",
+    "content": "Sleep plays a vital role in maintaining brain health and cognitive function. During sleep, the brain clears out toxins, consolidates memories, and restores energy for the next day. Poor sleep patterns, on the other hand, have been linked to mental health issues, cognitive decline, and even neurodegenerative diseases like Alzheimer’s.\r\n\r\n#### How Sleep Affects Brain Health:\r\n- **Memory Consolidation**: Sleep strengthens neural connections that form memories, improving learning and retention.\r\n- **Glymphatic System Activation**: During sleep, the brain’s glymphatic system removes waste products like beta-amyloids, which are linked to Alzheimer’s.\r\n- **Emotional Regulation**: Lack of sleep impairs emotional control, increasing irritability, anxiety, and stress.\r\n\r\nExperts recommend 7-9 hours of sleep for adults, emphasizing the importance of consistency in sleep schedules. Improving sleep hygiene—such as reducing screen time before bed, maintaining a cool room temperature, and avoiding caffeine—can significantly enhance brain health.",
+    "featured": false,
+    "image": "article_images/med-5.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:30:49.975Z",
+    "updated_at": "2024-10-13T06:30:49.975Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 30,
+  "fields": {
+    "title": "The Science Behind Sleep and Brain Health",
+    "author": 4,
+    "category": "medicine",
+    "content": "Sleep plays a vital role in maintaining brain health and cognitive function. During sleep, the brain clears out toxins, consolidates memories, and restores energy for the next day. Poor sleep patterns, on the other hand, have been linked to mental health issues, cognitive decline, and even neurodegenerative diseases like Alzheimer’s.\r\n\r\n#### How Sleep Affects Brain Health:\r\n- **Memory Consolidation**: Sleep strengthens neural connections that form memories, improving learning and retention.\r\n- **Glymphatic System Activation**: During sleep, the brain’s glymphatic system removes waste products like beta-amyloids, which are linked to Alzheimer’s.\r\n- **Emotional Regulation**: Lack of sleep impairs emotional control, increasing irritability, anxiety, and stress.\r\n\r\nExperts recommend 7-9 hours of sleep for adults, emphasizing the importance of consistency in sleep schedules. Improving sleep hygiene—such as reducing screen time before bed, maintaining a cool room temperature, and avoiding caffeine—can significantly enhance brain health.",
+    "featured": true,
+    "image": "article_images/med-5_M1wbQDJ.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:30:51.998Z",
+    "updated_at": "2024-10-13T06:30:51.998Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 31,
+  "fields": {
+    "title": "Managing Hypertension with Lifestyle Changes",
+    "author": 4,
+    "category": "medicine",
+    "content": "Hypertension, also known as high blood pressure, is a leading risk factor for heart disease and stroke. While medications play an important role in managing hypertension, lifestyle changes are equally essential to maintaining healthy blood pressure levels and reducing long-term risks.\r\n\r\n#### Effective Lifestyle Changes:\r\n- **Dietary Adjustments**: Adopting the **DASH (Dietary Approaches to Stop Hypertension)** diet—rich in fruits, vegetables, and low-fat dairy—can help lower blood pressure.\r\n- **Exercise**: Engaging in at least 30 minutes of moderate physical activity, such as brisk walking, 5 days a week improves cardiovascular health.\r\n- **Stress Management**: Chronic stress can increase blood pressure. Techniques like yoga, meditation, and deep breathing exercises are helpful in managing stress levels.\r\n\r\nCombining these habits with regular monitoring and adherence to prescribed medications ensures better outcomes in hypertension management.",
+    "featured": false,
+    "image": "article_images/med-6.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:35:05.447Z",
+    "updated_at": "2024-10-13T06:35:05.447Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 32,
+  "fields": {
+    "title": "Understanding the Gut-Brain Axis",
+    "author": 4,
+    "category": "medicine",
+    "content": "The **gut-brain axis** refers to the complex communication network between the gastrointestinal system and the brain. This connection influences not only digestion but also mood, behavior, and mental health. Recent research shows that the gut microbiome—home to trillions of bacteria—plays a crucial role in maintaining this communication.\r\n\r\n#### Key Insights into the Gut-Brain Connection:\r\n- **Mood Regulation**: Gut bacteria produce neurotransmitters like serotonin and dopamine, which are essential for mood regulation.\r\n- **Impact on Anxiety and Depression**: Dysbiosis (an imbalance in gut bacteria) has been linked to anxiety, depression, and other mental health disorders.\r\n- **Probiotics and Prebiotics**: Consuming probiotics (live bacteria) and prebiotics (fibers that nourish gut bacteria) can improve gut health, positively impacting mental well-being.\r\n\r\nThe interplay between diet, the microbiome, and mental health highlights the importance of a balanced diet rich in fiber and fermented foods to maintain a healthy gut-brain connection.",
+    "featured": false,
+    "image": "article_images/med-7.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:35:59.214Z",
+    "updated_at": "2024-10-13T06:35:59.214Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 33,
+  "fields": {
+    "title": "Understanding the Gut-Brain Axis",
+    "author": 4,
+    "category": "medicine",
+    "content": "The **gut-brain axis** refers to the complex communication network between the gastrointestinal system and the brain. This connection influences not only digestion but also mood, behavior, and mental health. Recent research shows that the gut microbiome—home to trillions of bacteria—plays a crucial role in maintaining this communication.\r\n\r\n#### Key Insights into the Gut-Brain Connection:\r\n- **Mood Regulation**: Gut bacteria produce neurotransmitters like serotonin and dopamine, which are essential for mood regulation.\r\n- **Impact on Anxiety and Depression**: Dysbiosis (an imbalance in gut bacteria) has been linked to anxiety, depression, and other mental health disorders.\r\n- **Probiotics and Prebiotics**: Consuming probiotics (live bacteria) and prebiotics (fibers that nourish gut bacteria) can improve gut health, positively impacting mental well-being.\r\n\r\nThe interplay between diet, the microbiome, and mental health highlights the importance of a balanced diet rich in fiber and fermented foods to maintain a healthy gut-brain connection.",
+    "featured": true,
+    "image": "article_images/med-7_nrRjoTS.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:36:00.838Z",
+    "updated_at": "2024-10-13T06:36:00.838Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 34,
+  "fields": {
+    "title": "The Role of Vaccines in Preventing Pandemics",
+    "author": 4,
+    "category": "medicine",
+    "content": "Vaccines have been one of the most effective public health interventions in human history, saving millions of lives from infectious diseases. From smallpox to COVID-19, vaccines have proven essential in preventing the spread of pandemics and protecting communities.\r\n\r\n#### How Vaccines Work:\r\n1. **Exposure to Antigen**: Vaccines introduce a weakened or inactivated form of a pathogen, or part of it, to stimulate the immune system.\r\n2. **Immune Response**: The immune system responds by producing antibodies that recognize and fight the pathogen.\r\n3. **Immunity Memory**: After vaccination, the immune system retains a memory of the pathogen, providing long-term protection.\r\n\r\nDespite vaccine hesitancy in some populations, vaccines remain crucial in achieving **herd immunity**, where a large portion of the population is immune, thus preventing disease transmission. Continued public education and equitable vaccine distribution are necessary for controlling future pandemics.",
+    "featured": false,
+    "image": "article_images/med-8.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:37:09.362Z",
+    "updated_at": "2024-10-13T06:37:09.362Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 35,
+  "fields": {
+    "title": "The Rise of Personalized Medicine",
+    "author": 7,
+    "category": "medicine",
+    "content": "Personalized medicine, also known as precision medicine, tailors medical treatment to the individual characteristics of each patient. Instead of a one-size-fits-all approach, personalized medicine uses genetic, environmental, and lifestyle factors to develop targeted therapies.\r\n\r\n#### Applications of Personalized Medicine:\r\n- **Pharmacogenomics**: By studying how genes affect a person’s response to drugs, doctors can prescribe medications that are most effective for the patient.\r\n- **Targeted Cancer Therapy**: Treatments like **HER2 inhibitors** for breast cancer patients are designed to target specific genetic mutations.\r\n- **Predictive Diagnostics**: Genetic testing allows doctors to predict a patient’s risk for diseases like diabetes and take preventive actions.\r\n\r\nAs genomic research advances, personalized medicine is expected to revolutionize healthcare by offering treatments that are more precise, effective, and minimally invasive.",
+    "featured": true,
+    "image": "article_images/med-9.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:38:17.541Z",
+    "updated_at": "2024-10-13T06:38:17.541Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 36,
+  "fields": {
+    "title": "The Importance of Preventive Healthcare",
+    "author": 7,
+    "category": "medicine",
+    "content": "Preventive healthcare focuses on maintaining wellness and reducing the risk of disease before symptoms appear. It involves regular screenings, vaccinations, and lifestyle modifications that keep individuals healthy in the long term. \r\n\r\n### Benefits of Preventive Care  \r\n1. **Early Detection of Diseases**  \r\n   Many conditions, such as hypertension or diabetes, are asymptomatic in their early stages. Regular screenings allow for early diagnosis and timely treatment. \r\n\r\n2. **Cost Reduction**  \r\n   Preventive care lowers healthcare costs by reducing the need for expensive emergency treatments and hospitalizations. A flu shot, for instance, is much cheaper than treating severe flu-related complications.\r\n\r\n3. **Improved Quality of Life**  \r\n   Healthier lifestyles lead to a better quality of life. Incorporating balanced diets, physical activity, and regular medical check-ups ensures long-term well-being. \r\n\r\n**How to Get Started**  \r\n- Schedule annual check-ups with your healthcare provider.  \r\n- Stay up-to-date with vaccinations and screenings.  \r\n- Adopt healthy habits such as exercising, quitting smoking, and eating nutritious foods.\r\n\r\nPreventive care empowers individuals to take charge of their health, leading to a longer, healthier life with fewer medical complications.",
+    "featured": false,
+    "image": "",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:45:24.074Z",
+    "updated_at": "2024-10-13T06:45:24.074Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 37,
+  "fields": {
+    "title": "The Importance of Preventive Healthcare",
+    "author": 7,
+    "category": "medicine",
+    "content": "Preventive healthcare focuses on maintaining wellness and reducing the risk of disease before symptoms appear. It involves regular screenings, vaccinations, and lifestyle modifications that keep individuals healthy in the long term. \r\n\r\n### Benefits of Preventive Care  \r\n1. **Early Detection of Diseases**  \r\n   Many conditions, such as hypertension or diabetes, are asymptomatic in their early stages. Regular screenings allow for early diagnosis and timely treatment. \r\n\r\n2. **Cost Reduction**  \r\n   Preventive care lowers healthcare costs by reducing the need for expensive emergency treatments and hospitalizations. A flu shot, for instance, is much cheaper than treating severe flu-related complications.\r\n\r\n3. **Improved Quality of Life**  \r\n   Healthier lifestyles lead to a better quality of life. Incorporating balanced diets, physical activity, and regular medical check-ups ensures long-term well-being. \r\n\r\n**How to Get Started**  \r\n- Schedule annual check-ups with your healthcare provider.  \r\n- Stay up-to-date with vaccinations and screenings.  \r\n- Adopt healthy habits such as exercising, quitting smoking, and eating nutritious foods.\r\n\r\nPreventive care empowers individuals to take charge of their health, leading to a longer, healthier life with fewer medical complications.",
+    "featured": false,
+    "image": "",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:45:27.511Z",
+    "updated_at": "2024-10-13T06:45:27.511Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 38,
+  "fields": {
+    "title": "Understanding the Role of Nutrition in Mental Health",
+    "author": 7,
+    "category": "medicine",
+    "content": "In recent years, researchers have uncovered a profound connection between what we eat and how we feel. Nutrition plays a critical role in mental well-being, influencing mood, behavior, and cognitive function. \r\n\r\n### Key Nutrients for Brain Health  \r\n- **Omega-3 Fatty Acids:** Found in fish like salmon and walnuts, omega-3s are essential for brain function and may reduce the symptoms of depression.  \r\n- **B Vitamins:** Low levels of vitamins like B6, B12, and folate have been linked to mood disorders. Incorporating leafy greens, eggs, and legumes ensures an adequate intake.  \r\n- **Antioxidants:** Foods rich in antioxidants, such as berries and dark chocolate, combat oxidative stress that can impair brain function.  \r\n\r\n### The Gut-Brain Axis  \r\nThe gut and brain are intricately connected through what’s called the gut-brain axis. A healthy gut microbiome can influence mood by regulating serotonin levels, a neurotransmitter responsible for happiness. Fermented foods like yogurt and kimchi help maintain a healthy gut.\r\n\r\n**Practical Tips for Better Mental Health**  \r\n- Avoid excessive sugar and processed foods, which can lead to mood swings.  \r\n- Incorporate complex carbohydrates like oats and whole grains to stabilize energy levels.  \r\n- Drink plenty of water, as dehydration can lead to fatigue and mood disturbances.\r\n\r\nNutrition isn’t just about physical health; it is also the foundation for a well-functioning mind.",
+    "featured": true,
+    "image": "article_images/med-10.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:46:20.804Z",
+    "updated_at": "2024-10-13T06:46:20.804Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 39,
+  "fields": {
+    "title": "The Science Behind Sleep and Immune Function",
+    "author": 7,
+    "category": "medicine",
+    "content": "Sleep plays an essential role in immune function, mental health, and overall well-being. When we sleep, our bodies perform vital functions like repairing tissues, releasing growth hormones, and producing immune cells. \r\n\r\n### How Sleep Impacts Immunity  \r\n1. **Strengthening the Immune Response**  \r\n   During sleep, the body produces cytokines—proteins that fight infection and inflammation. A lack of sleep can lower cytokine levels, making individuals more prone to illness.  \r\n\r\n2. **Enhancing Vaccine Effectiveness**  \r\n   Studies show that well-rested individuals respond better to vaccinations because sleep promotes the production of antibodies.\r\n\r\n3. **Regulating Inflammation**  \r\n   Chronic sleep deprivation leads to increased levels of inflammatory markers, which are linked to conditions like heart disease and diabetes.\r\n\r\n### Tips for Better Sleep Hygiene  \r\n- **Stick to a Schedule:** Go to bed and wake up at the same time every day, even on weekends.  \r\n- **Create a Relaxing Environment:** Keep the bedroom cool, dark, and quiet.  \r\n- **Limit Screen Time:** Blue light from screens interferes with melatonin production, a hormone necessary for sleep.\r\n\r\nPrioritize sleep as part of your healthcare routine—it’s one of the most natural ways to boost your immune system and maintain good health.",
+    "featured": true,
+    "image": "article_images/med-1_5VP8nBM.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:47:25.402Z",
+    "updated_at": "2024-10-13T06:47:25.402Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 40,
+  "fields": {
+    "title": "The Impact of Climate Change on Public Health",
+    "author": 7,
+    "category": "medicine",
+    "content": "Climate change is not only an environmental issue; it is also a public health crisis. Rising global temperatures, air pollution, and extreme weather events have direct and indirect effects on human health. \r\n\r\n### Health Risks Associated with Climate Change  \r\n- **Heat-Related Illnesses:** Prolonged exposure to high temperatures can cause heat exhaustion and heat stroke, especially in vulnerable populations like the elderly.  \r\n- **Respiratory Issues:** Air pollution, exacerbated by climate change, increases the prevalence of asthma, bronchitis, and other respiratory conditions.  \r\n- **Infectious Diseases:** Warmer temperatures extend the breeding season for mosquitoes, leading to the spread of diseases like malaria and dengue fever.\r\n\r\n### Solutions for Mitigating Health Risks  \r\n- **Strengthen Healthcare Systems:** Hospitals and clinics must prepare for climate-related health issues by improving infrastructure and training staff.  \r\n- **Promote Public Awareness:** Governments and NGOs should educate communities about the health risks associated with climate change.  \r\n- **Support Sustainable Policies:** Reducing carbon emissions through clean energy initiatives can improve both environmental and public health.\r\n\r\nAddressing climate change is essential for ensuring the health and safety of future generations.",
+    "featured": false,
+    "image": "article_images/med-3_QoDxYu4.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:48:05.669Z",
+    "updated_at": "2024-10-13T06:48:05.669Z"
+  }
+},
+{
+  "model": "api.article",
+  "pk": 41,
+  "fields": {
+    "title": "The Future of Personalized Medicine",
+    "author": 7,
+    "category": "medicine",
+    "content": "Personalized medicine is transforming healthcare by tailoring treatments based on an individual’s genetic makeup, lifestyle, and environment. This innovative approach aims to enhance the effectiveness of therapies and minimize side effects.\r\n\r\n### How Personalized Medicine Works  \r\n- **Genetic Testing:** DNA analysis helps predict how a patient will respond to specific medications, enabling doctors to prescribe the most effective treatments.  \r\n- **Pharmacogenomics:** This field studies how genetic variations affect drug metabolism, ensuring precise dosages for patients.  \r\n- **Lifestyle Integration:** Personalized medicine considers factors like diet, exercise, and sleep patterns to optimize treatment outcomes.\r\n\r\n### Benefits of Personalized Medicine  \r\n1. **Improved Treatment Outcomes:** By targeting therapies to individual needs, personalized medicine increases the success rate of treatments.  \r\n2. **Reduced Side Effects:** Patients receive medications that align with their genetic profile, reducing adverse reactions.  \r\n3. **Proactive Healthcare:** Genetic screenings help identify risks for diseases like cancer, enabling early intervention and prevention.\r\n\r\n**Future Outlook**  \r\nAs technology advances, personalized medicine will become more accessible, leading to a healthcare system focused on prevention and precision.",
+    "featured": false,
+    "image": "article_images/med-8_zsuBlHP.jpg",
+    "is_deleted": false,
+    "created_at": "2024-10-13T06:48:48.322Z",
+    "updated_at": "2024-10-13T06:48:48.322Z"
+  }
+}
+]
